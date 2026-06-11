@@ -1,0 +1,5 @@
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+pytrends>=4.9.0    # Google Trends (optional, set ENABLE_GOOGLE_TRENDS=True)
+websocket-client>=1.6.0
